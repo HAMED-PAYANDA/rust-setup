@@ -70,4 +70,3 @@ Use the [included lab](./lab.md) for this week to apply the concepts you've lear
 - [Scripting with Python and SQL for Data Engineering](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke)
 Completed the Rust setup lab via GitHub Codespaces.
 
-Completed the Rust setup lab via GitHub Codespaces.
